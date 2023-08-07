@@ -1,2 +1,5 @@
-export { default as Login } from "./dist/Login";
-export { default as Welcome } from "./dist/Welcome";
+import Login from "./dist/Login";
+import Welcome from "./dist/Welcome";
+
+export { Login };
+export { Welcome };
