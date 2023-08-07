@@ -1,3 +1,3 @@
-import CreateLib from "./dist/Index";
+import CreateLib from "./dist/Login";
 
 export default CreateLib;
