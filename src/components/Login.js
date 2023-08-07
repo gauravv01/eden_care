@@ -6,7 +6,7 @@ import { Button, Form, Input } from "antd";
 
 const Login = ({ onFinish, validateEmail, loginPic }) => {
   //   const navigate = useNavigate();
-  //   const [form] = Form.useForm();
+  const [form] = Form.useForm();
   const [error, setError] = useState();
   const [loading, setLoading] = useState();
   const [passwordLength, setPasswordLength] = useState(false);

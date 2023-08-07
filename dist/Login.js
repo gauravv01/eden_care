@@ -10,7 +10,7 @@ const Login = ({
   loginPic
 }) => {
   //   const navigate = useNavigate();
-  //   const [form] = Form.useForm();
+  const [form] = Form.useForm();
   const [error, setError] = useState();
   const [loading, setLoading] = useState();
   const [passwordLength, setPasswordLength] = useState(false);
