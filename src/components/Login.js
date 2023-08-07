@@ -1,7 +1,7 @@
 import React, { useState } from "react";
 import styles from "./Login.module.css";
 import { Button, Form, Input } from "antd";
-// import { Link, useNavigate } from 'react-router-dom';
+import { Link, useNavigate } from "react-router-dom";
 // import loginPic from '../../img/loginPic.png';
 
 const Login = ({ onFinish, validateEmail, loginPic }) => {
