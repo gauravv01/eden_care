@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import styles from "./Welcome.module.css";
-import loginPic from "../../img/loginPic.png";
+// import loginPic from "../../img/loginPic.png";
 import { Button, Divider, Form, Input } from "antd";
 
 // import ResetPasswordScreen from "./ResetPasswordScreen";
