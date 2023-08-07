@@ -116,4 +116,4 @@ const Welcome = ({ loginPic, onFinish }) => {
   );
 };
 
-export { Welcome };
+export default Welcome;

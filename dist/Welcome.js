@@ -105,4 +105,4 @@ const Welcome = ({
     htmlType: "submit"
   }, "Login"))))));
 };
-export { Welcome };
+export default Welcome;
