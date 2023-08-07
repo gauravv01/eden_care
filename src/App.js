@@ -1,23 +1,9 @@
-import logo from './logo.svg';
-import './App.css';
-
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      A paragraph is a series of sentences that are organized and coherent, and
+      are all related to a single topic. Almost every piece of writing you do
+      that is longer than a few sentences should be organized into paragraphs.
     </div>
   );
 }
