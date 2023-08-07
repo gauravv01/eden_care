@@ -1,3 +1,2 @@
-import CreateLib from "./dist/Login";
-
-export default CreateLib;
+export { Login } from "./dist/Login";
+export { Welcome } from "./dist/Welcome";
