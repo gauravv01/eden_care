@@ -1,7 +1,8 @@
 {
-  "name": "create_lib",
+  "name": "create_lib123456",
   "version": "0.1.0",
-  "private": true,
+  "main": "index.js",
+  "private": false,
   "dependencies": {
     "@babel/cli": "^7.22.9",
     "@babel/core": "^7.22.9",
